@@ -1,3 +1,7 @@
+## ScreenShot
+This is my database table
+![newaadi](https://user-images.githubusercontent.com/86789666/155564305-c905c6c5-b97a-4eba-b1cf-fd1ec405e1a3.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
